@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #f8f9fa; /* Color de fondo */
+  border-bottom: 1px solid #ccc; /* Borde inferior */
+}
+
+.navbar-link-left {
+  margin-right: auto; /* Empuja el enlace hacia la izquierda */
+  color: #333; /* Color del texto */
+  text-decoration: none; /* Sin subrayado */
+}
+
+.navbar-link-right {
+  margin-left: auto; /* Empuja el enlace hacia la derecha */
+  color: #333; /* Color del texto */
+  text-decoration: none; /* Sin subrayado */
+}
